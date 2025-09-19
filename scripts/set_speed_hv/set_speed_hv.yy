@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"set_speed_hv",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"set_speed_hv",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

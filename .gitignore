@@ -1,0 +1,25 @@
+# GameMaker Studio 2 build/cache files
+*.yyz
+*.yyp_backup
+*.log
+*.tmp
+
+# Cache/compiled outputs
+.yyc/
+.yyc/*
+*.win
+*.zip
+*.exe
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# IDE configs
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Backup files
+*.bak

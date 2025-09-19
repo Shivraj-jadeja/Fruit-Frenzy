@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"warp_random",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"warp_random",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
